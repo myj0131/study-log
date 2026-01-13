@@ -1,3 +1,5 @@
+# 🐳 Docker 시작하기: 설치부터 실무 예제까지
+이 가이드는 Windows 환경에서 WSL 2를 활용하여 Docker Desktop을 설치하고, 웹 서버 PHP 개발 환경을 맛보는 예제를 담고 있습니다.
 
 <details>
 <summary><h3>🙋 도커 설치 시 wsl을 설치하는 이유</h3></summary>
@@ -22,9 +24,6 @@ WSL 2는 마이크로소프트가 직접 리눅스 커널을 Windows에 내장�
 * localhost를 통해 Windows와 리눅스 컨테이너 간의 네트워크 통신이 매우 매끄럽게 이루어집니다.
 
 </details>
-
-# 🐳 Docker 시작하기: 설치부터 실무 예제까지
-이 가이드는 Windows 환경에서 WSL 2를 활용하여 Docker Desktop을 설치하고, 웹 서버 PHP 개발 환경을 맛보는 예제를 담고 있습니다.
 
 ## 1️⃣ 사전준비: WSL 2 설치 및 리눅스 셋팅
 Docker Desktop은 리눅스 커널을 사용하므로, Windows 환경에서는 WSL2 설치가 필수입니다.
